@@ -8,9 +8,16 @@ int main()
     int i;
     cout << "Enter the range: ";
     cin >> n;
+    // for (i = 1; i <= n; i = i + 1)
+    // {
+    //     if (i % 2 != 0)
+    //     {
+    //         cout << i << endl;
+    //     }
+    // }
     for (i = 1; i <= n; i = i + 1)
     {
-        if (i % 2 != 0)
+        if (i % 4 == 0)
         {
             cout << i << endl;
         }
