@@ -8,13 +8,12 @@ int main()
     int i;
     cout << "Enter the range: ";
     cin >> n;
-    // for (i = 1; i <= 10; i++)
-    // {
-    //     cout << i << endl;
-    // }
-    for (i = 2; i <= n; i += 2)
+    for (i = 1; i <= n; i = i + 1)
     {
-        cout << i << " * " << i << " = " << i*i<< endl;
+        if (i % 2 != 0)
+        {
+            cout << i << endl;
+        }
     }
     return 0;
 }
