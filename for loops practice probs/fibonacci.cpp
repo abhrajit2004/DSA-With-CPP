@@ -9,7 +9,7 @@ int main(){
     cout << last << " " << prev << " ";
     for (i = 3; i <= n; i = i + 1)
     {
-        curr = prev+last;
+        curr = prev + last;
         cout << curr << " ";
         last  = prev;
         prev = curr;
