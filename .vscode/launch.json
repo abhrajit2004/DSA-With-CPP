@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Abhra/Code PlayGrounds/DSA with C++/operators",
-      "program": "c:/Users/Abhra/Code PlayGrounds/DSA with C++/operators/build/Debug/outDebug",
+      "cwd": "c:/Users/Abhra/Code PlayGrounds/DSA with C++",
+      "program": "c:/Users/Abhra/Code PlayGrounds/DSA with C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
